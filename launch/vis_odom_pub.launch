@@ -1,0 +1,4 @@
+ <launch>
+  <node pkg="visual_odom_ros" type="pub.py" name="visual_odometry">
+  </node>
+ </launch>
